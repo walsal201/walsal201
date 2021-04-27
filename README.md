@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Walid Saleh
-- 👀 I’m interested in C#,python,AI programming
-- 🌱 I’m currently learning on AI
+- 👀 I’m interested in C#,python,IOT & AI
+- 🌱 I’m currently learning on AI & Machine Learning
 - 💞️ I’m looking to collaborate on Programming in General
 - 📫 How to reach me ...
 
