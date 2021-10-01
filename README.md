@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Walid Saleh
+- 👋 Hi, I’m Walid Ibrahim
 - 👀 I’m interested in C#,python,IOT & AI
 - 🌱 I’m currently learning on AI & Machine Learning
 - 💞️ I’m looking to collaborate on Programming in General
